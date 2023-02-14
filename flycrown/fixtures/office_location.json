@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "office location",
+  "modified": "2023-02-11 16:41:29.997350",
+  "name": "Turkey",
+  "office_location_name": "Turkey",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "docstatus": 0,
+  "doctype": "office location",
+  "modified": "2023-02-11 16:41:39.431219",
+  "name": "Libya",
+  "office_location_name": "Libya",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "docstatus": 0,
+  "doctype": "office location",
+  "modified": "2023-02-11 16:41:48.041051",
+  "name": "Tunisia",
+  "office_location_name": "Tunisia",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

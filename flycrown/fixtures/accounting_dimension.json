@@ -1,0 +1,30 @@
+[
+ {
+  "dimension_defaults": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Accounting Dimension",
+  "document_type": "office location",
+  "fieldname": "office_location",
+  "label": "office location",
+  "modified": "2023-02-11 16:49:25.582146",
+  "name": "office location",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "dimension_defaults": [],
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Accounting Dimension",
+  "document_type": "Department",
+  "fieldname": "department",
+  "label": "Department",
+  "modified": "2023-02-11 16:50:03.891251",
+  "name": "Department",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

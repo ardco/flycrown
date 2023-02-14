@@ -1,0 +1,43 @@
+{
+ "actions": [],
+ "autoname": "field:office_location_name",
+ "creation": "2023-02-11 16:39:44.102424",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "office_location_name"
+ ],
+ "fields": [
+  {
+   "fieldname": "office_location_name",
+   "fieldtype": "Data",
+   "label": "office location name",
+   "unique": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2023-02-11 16:40:11.861225",
+ "modified_by": "Administrator",
+ "module": "Flycrown",
+ "name": "office location",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "track_changes": 1
+}

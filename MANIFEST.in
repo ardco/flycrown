@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include flycrown *.css
+recursive-include flycrown *.csv
+recursive-include flycrown *.html
+recursive-include flycrown *.ico
+recursive-include flycrown *.js
+recursive-include flycrown *.json
+recursive-include flycrown *.md
+recursive-include flycrown *.png
+recursive-include flycrown *.py
+recursive-include flycrown *.svg
+recursive-include flycrown *.txt
+recursive-exclude flycrown *.pyc
